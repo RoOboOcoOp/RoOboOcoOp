@@ -23,7 +23,6 @@ I'm a Computer Engineering student at UFOP, blending hands-on experience in tele
 |-----------------|---------------------------------------------------------------------------------------|
 | **Data Engineering** | Python, SQL, ETL Processes, MySQL, Pandas                                            |
 | **Machine Learning** | CNN, Transfer Learning, Dimensionality Reduction, Scikit-learn                       |
-| **Web Development**  | HTML5, CSS, JavaScript, PHP                                                          |
 | **Infrastructure**   | FTTH Networks, ONT Configuration, PPPoE, VLAN                                        |
 | **Tools & OS**       | Git, Linux, Windows, Office Suite                                                    |
 
