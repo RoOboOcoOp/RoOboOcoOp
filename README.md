@@ -1,4 +1,4 @@
-# Wuldson Fernandes 👨‍💻
+# Wuldson Fernandes 👨‍💻 big
 
 **Data Engineer | Python Developer | ETL Specialist**  
 João Monlevade, Minas Gerais, Brazil
