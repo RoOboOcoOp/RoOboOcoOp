@@ -12,7 +12,7 @@ I'm a Computer Engineering student at UFOP, blending hands-on experience in tele
 - 🔭 I’m currently working on personal projects involving **Python automation, ETL processes, and data analysis**.
 - 🌱 I’m continuously learning about **Machine Learning, Convolutional Neural Networks (CNN), and advanced data engineering techniques**.
 - 💼 My background includes field experience as a **Network Technician**, giving me a unique perspective on hardware and software integration.
-- 📫 How to reach me: **wuldsonfernandes@gmail.com** | [+55 (31) 986307123](tel:+5531986307123)
+- 📫 How to reach me: **wuldsonfernandes@gmail.com**
 - 📄 Know more about my professional journey: [LinkedIn](https://www.linkedin.com/in/wuldsonfernandes)
 
 ---
