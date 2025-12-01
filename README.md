@@ -57,7 +57,7 @@ Here's a quick overview of my activity and the languages I use most on GitHub:
 
 ### 🎓 Education
 
-*   **Bachelor's in Computer Engineering** - UFOP (Universidade Federal de Ouro Preto) | *In Progress(Expected Graduation: Dec 2027)
+*   **Bachelor's in Computer Engineering** - UFOP (Universidade Federal de Ouro Preto) | *In Progress(Expected Graduation: Dec 2027)*
 *   **Apprentice, Electrical Building Maintenance** - SENAI Ouro Preto | *Jan 2010 - Feb 2012*
 
 ---
