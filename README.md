@@ -18,18 +18,6 @@ I’ve worked as a **Network Technician** at BDC Telecom and Internet Super, del
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Wuldson GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoOboOcoOp&show_icons=true&theme=transparent&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoOboOcoOp&layout=compact&theme=transparent)
-
-</div>
-
----
-
 ## 🧪 Featured Skills
 
 - **ETL & Data Engineering**
