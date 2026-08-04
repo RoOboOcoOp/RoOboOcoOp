@@ -49,7 +49,7 @@ My background in network infrastructure gives me a systems-level view of data re
 
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/wuldsonfernandes)
 - 📧 **Email:** [wuldsonfernandes@gmail.com](mailto:wuldsonfernandes@gmail.com)
 - 🌐 **Location:** João Monlevade, Minas Gerais, Brazil (Open to global remote contracts)
 - 🇺🇸 **English Proficiency:** B2 Upper Intermediate (Verified by EF SET Certificate — Fluent for international technical documentation and daily scrums)
