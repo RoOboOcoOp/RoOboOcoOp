@@ -29,7 +29,7 @@ My background in network infrastructure gives me a systems-level view of data re
 
 ## 📁 Featured Projects & Focus Areas
 
-### 🧠 [Deep Learning & Image Analytics](https://github.com/RoOboOcoOp/TransferLearningM1)
+### 🧠 [Deep Learning](https://github.com/RoOboOcoOp/TransferLearningM1) & [Image Analytics](https://github.com/RoOboOcoOp/ReducaoDimensionalidadeImagens)
 * **CNN Training & Transfer Learning:** Implemented efficient computer vision pipelines optimizing training data flows using custom Python frameworks.
 * **Dimensionality Reduction:** Built data prep scripts focused on streamlining image data dimensions for machine learning algorithms.
 
