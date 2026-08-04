@@ -29,11 +29,11 @@ My background in network infrastructure gives me a systems-level view of data re
 
 ## 📁 Featured Projects & Focus Areas
 
-### 🧠 [Deep Learning & Image Analytics](https://github.com)
+### 🧠 [Deep Learning & Image Analytics](https://github.com/RoOboOcoOp/TransferLearningM1)
 * **CNN Training & Transfer Learning:** Implemented efficient computer vision pipelines optimizing training data flows using custom Python frameworks.
 * **Dimensionality Reduction:** Built data prep scripts focused on streamlining image data dimensions for machine learning algorithms.
 
-### 📊 [Data Metrics & Analytics](https://github.com)
+### 📊 [Data Metrics & Analytics](https://github.com/RoOboOcoOp/Calculo-de-Metricas-de-Avaliacao-de-Aprendizado)
 * **Evaluation Metrics:** Developed custom notebooks to measure machine learning model performance with precision and strict logic constraints.
 * **Automation Hub:** Active scripts integrating Pandas, REST APIs, and automated FTP file extraction to feed structured tables inside clean relational databases.
 
