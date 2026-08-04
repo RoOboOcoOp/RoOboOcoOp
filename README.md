@@ -1,39 +1,58 @@
-# 👋 Hi, I'm Wuldson Fernandes
+# Hi, I'm Wuldson Fernandes 👋
 
-**Data Engineer | Python Developer | ETL Specialist | FTTH Infrastructure**
+### **Data Engineer | Python Developer | ETL & Automation Specialist**
 
-I'm a Computer Engineering student at UFOP with hands-on experience in **Data Engineering**, **Python development**, and **FTTH network infrastructure**. I work on automation, data processing pipelines, and practical Python solutions that integrate software and real-world infrastructure.
+I am a Computer Engineering student at UFOP and a Freelance Data Engineer specializing in building production-ready data pipelines, workflow automation, and high-quality data preprocessing. 
 
----
-
-## 🚀 About Me
-
-- 🎯 Data Engineering: **Python, SQL, ETL, Pandas, MySQL**
-- 💻 Web Development: **HTML5, CSS, JavaScript, PHP**
-- 🧰 Tools & OS: **Git, Linux, Windows**
-- 🔌 Infrastructure: **FTTH Networks, ONT/ONU configuration, PPPoE, VLAN**
-- 🧠 Interests: data pipelines, automation, system integration, machine learning
-
-I’ve worked as a **Network Technician** at BDC Telecom and Internet Super, delivering FTTH activations, maintenance, and optimizing network processes. My field experience gives me a unique perspective between hardware and software layers.
+My background in network infrastructure gives me a systems-level view of data reliability, signal quality, and efficient data flow, allowing me to build robust, scalable architectures. Driven by data quality, high concentration, and structural systematization, I transform raw datasets into clean, actionable data environments.
 
 ---
 
-## 🧪 Featured Skills
+## 🛠️ Technical Stack & Ecosystem
 
-- **ETL & Data Engineering**
-- **Python Automation**
-- **Data Analysis**
-- **SQL Queries & Modeling**
-- **Network Infrastructure (FTTH)**
-
----
-
-## 📬 Contact
-
-- 📧 Email: **wuldsonfernandes@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/wuldsonfernandes](https://www.linkedin.com/in/wuldsonfernandes)
-- 🐙 GitHub: [github.com/RoOboOcoOp](https://github.com/RoOboOcoOp)
+- **Languages & Databases:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, C, MySQL
+- **Data Engineering:** ETL/ELT Ingestion, Data Validation, Pipeline Automation, Process Optimization, REST APIs, FTP
+- **AI & Data Preprocessing:** LLM Tokenization, Prompt Engineering, Dataset Preprocessing for Deep Learning
+- **DevOps & Infrastructure:** Docker, Git (Feature Branching, Code Reviews), Linux, Windows
+- **Networking Foundations:** FTTH, ONT/ONU, PPPoE, VLAN, Data Flow Diagnostics
 
 ---
 
-⭐ *If you like my projects, feel free to star or fork them!*  
+## 🚀 Professional Impact
+
+- **Data Pipeline Optimization:** Built automated ETL architectures that reduced manual data handling time by **50%** and eliminated critical operational human errors.
+- **LLM Preprocessing:** Developed specialized tokenization workflows for raw text datasets, directly improving input quality for LLM and fine-tuning tasks.
+- **Containerization & CI/CD:** Implemented Docker to containerize Python applications, ensuring environment reproducibility and minimizing remote deployment failures.
+- **Data-Driven Decision Making:** Performed exploratory data analysis (EDA) on complex datasets to isolate outliers, validate data integrity, and support stakeholder decisions.
+
+---
+
+## 📁 Featured Projects & Focus Areas
+
+### 🧠 [Deep Learning & Image Analytics](https://github.com)
+* **CNN Training & Transfer Learning:** Implemented efficient computer vision pipelines optimizing training data flows using custom Python frameworks.
+* **Dimensionality Reduction:** Built data prep scripts focused on streamlining image data dimensions for machine learning algorithms.
+
+### 📊 [Data Metrics & Analytics](https://github.com)
+* **Evaluation Metrics:** Developed custom notebooks to measure machine learning model performance with precision and strict logic constraints.
+* **Automation Hub:** Active scripts integrating Pandas, REST APIs, and automated FTP file extraction to feed structured tables inside clean relational databases.
+
+---
+
+## 📊 Behavioral Strengths (Verified by Recognita Profile)
+
+- **High Focus & Concentration:** Natural capability to isolate distractions and deep-dive into complex database logic or system bug-hunting.
+- **Systematic Approach:** Obsession with process organization, reproducible Docker environments, and rigorous Git versioning workflows.
+- **Time Management:** Highly disciplined in agile environments (1-2 week sprints), delivering optimized scripts within strict SLA boundaries.
+
+---
+
+## 📫 Connect with Me
+
+- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- 📧 **Email:** [wuldsonfernandes@gmail.com](mailto:wuldsonfernandes@gmail.com)
+- 🌐 **Location:** João Monlevade, Minas Gerais, Brazil (Open to global remote contracts)
+- 🇺🇸 **English Proficiency:** B2 Upper Intermediate (Verified by EF SET Certificate — Fluent for international technical documentation and daily scrums)
+
+---
+*Feel free to explore my repositories, open an issue, or fork my automation tools!*
